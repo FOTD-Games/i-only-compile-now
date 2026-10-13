@@ -1,0 +1,14 @@
+/work/
+/renders/
+/outputs/
+/previews/
+/.venv*/
+__pycache__/
+*.py[cod]
+*.mp4
+*.mov
+*.webm
+/docs/scenes.jpg
+/docs/validation.json
+/data/I-Dont-Code-Anymore.srt
+.DS_Store

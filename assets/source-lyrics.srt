@@ -1,0 +1,292 @@
+1
+00:00:00,638 --> 00:00:00,638
+[Verse 1]
+
+2
+00:00:00,638 --> 00:00:05,505
+I used to wake before the sun
+
+3
+00:00:05,505 --> 00:00:15,505
+And wrestle code till it was done
+
+4
+00:00:21,702 --> 00:00:24,335
+A tiny bug, a stubborn line
+
+5
+00:00:24,335 --> 00:00:28,723
+And then—at last—the build was mine
+
+6
+00:00:28,723 --> 00:00:32,314
+I'd chase the truth through nested loops
+
+7
+00:00:32,314 --> 00:00:35,904
+And count my wins in crooked groups
+
+8
+00:00:35,904 --> 00:00:38,537
+Now I just ask, and there it goes
+
+9
+00:00:38,537 --> 00:00:42,527
+A thousand answers, one neat row
+
+10
+00:00:42,527 --> 00:00:42,527
+[Pre-Chorus]
+
+11
+00:00:42,527 --> 00:00:43,404
+It's fast
+
+12
+00:00:43,404 --> 00:00:44,362
+It's clean
+
+13
+00:00:44,362 --> 00:00:46,117
+It's almost everything I dreamed
+
+14
+00:00:46,117 --> 00:00:47,872
+A world of doors at my command
+
+15
+00:00:47,872 --> 00:00:51,941
+But something slips right through my hands
+
+16
+00:00:51,941 --> 00:00:51,941
+[Chorus]
+
+17
+00:00:51,941 --> 00:00:54,255
+I can build anything now
+
+18
+00:00:54,255 --> 00:00:55,931
+Anything now
+
+19
+00:00:55,931 --> 00:00:58,245
+But I don't code anymore
+
+20
+00:00:58,245 --> 00:01:00,000
+I don't code anymore
+
+21
+00:01:00,000 --> 00:01:01,676
+I ask the machine to sing
+
+22
+00:01:01,676 --> 00:01:03,431
+I watch it hand me the thing
+
+23
+00:01:03,431 --> 00:01:05,266
+And still I stand at the door
+
+24
+00:01:05,266 --> 00:01:07,819
+I don't code anymore
+
+25
+00:01:07,819 --> 00:01:07,819
+[Verse 2]
+
+26
+00:01:07,819 --> 00:01:11,170
+No red squiggles in the dark
+
+27
+00:01:11,170 --> 00:01:14,441
+No red squiggles in the dark
+
+28
+00:01:14,441 --> 00:01:17,952
+No midnight fights with parser sparks
+
+29
+00:01:17,952 --> 00:01:19,867
+No coffee ring on logic maps
+
+30
+00:01:19,867 --> 00:01:21,622
+No victory from fixing traps
+
+31
+00:01:21,622 --> 00:01:23,298
+It drafts the screen, it names the files
+
+32
+00:01:23,298 --> 00:01:25,133
+It skips the pain, it cuts the miles
+
+33
+00:01:25,133 --> 00:01:26,888
+It makes the hard part look like art
+
+34
+00:01:26,888 --> 00:01:31,915
+And leaves my old joy out apart
+
+35
+00:01:31,915 --> 00:01:31,915
+[Pre-Chorus]
+
+36
+00:01:31,915 --> 00:01:32,952
+It's smart
+
+37
+00:01:32,952 --> 00:01:33,989
+It's quick
+
+38
+00:01:33,989 --> 00:01:35,665
+It gives me almost all I pick
+
+39
+00:01:35,665 --> 00:01:37,340
+I reach for keys that aren't there
+
+40
+00:01:37,340 --> 00:01:41,170
+And feel the ghost of my own care
+
+41
+00:01:41,170 --> 00:01:41,170
+[Chorus]
+
+42
+00:01:41,170 --> 00:01:43,644
+I can build anything now
+
+43
+00:01:43,644 --> 00:01:45,239
+Anything now
+
+44
+00:01:45,239 --> 00:01:47,473
+But I don't code anymore
+
+45
+00:01:47,473 --> 00:01:49,309
+I don't code anymore
+
+46
+00:01:49,309 --> 00:01:51,064
+I ask the machine to sing
+
+47
+00:01:51,064 --> 00:01:52,739
+I watch it hand me the thing
+
+48
+00:01:52,739 --> 00:01:54,574
+And still I stand at the door
+
+49
+00:01:54,574 --> 00:02:03,830
+I don't code anymore
+
+50
+00:02:03,830 --> 00:02:03,830
+[Bridge]
+
+51
+00:02:03,830 --> 00:02:06,702
+Remember when a broken line
+
+52
+00:02:06,702 --> 00:02:10,293
+Could teach me patience, make me shine?
+
+53
+00:02:10,293 --> 00:02:13,644
+When every fix was hard-earned light
+
+54
+00:02:13,644 --> 00:02:18,989
+And I could lose myself all night
+
+55
+00:02:18,989 --> 00:02:20,266
+I don't miss the pain
+
+56
+00:02:20,266 --> 00:02:21,144
+I miss the proof
+
+57
+00:02:21,144 --> 00:02:22,819
+The quiet click of finding truth
+
+58
+00:02:22,819 --> 00:02:24,574
+I miss the mess, the climb, the grit
+
+59
+00:02:24,574 --> 00:02:28,245
+The little thrill of making it
+
+60
+00:02:28,245 --> 00:02:28,245
+[Final Chorus]
+
+61
+00:02:28,245 --> 00:02:30,718
+I can build anything now
+
+62
+00:02:30,718 --> 00:02:32,314
+Anything now
+
+63
+00:02:32,314 --> 00:02:34,548
+But I don't code anymore
+
+64
+00:02:34,548 --> 00:02:36,303
+I don't code anymore
+
+65
+00:02:36,303 --> 00:02:37,979
+So give me one old stubborn file
+
+66
+00:02:37,979 --> 00:02:39,734
+One bug that makes me stay awhile
+
+67
+00:02:39,734 --> 00:02:41,489
+I want the struggle back once more
+
+68
+00:02:41,489 --> 00:02:50,904
+I want to code once more
+
+69
+00:02:50,904 --> 00:02:50,904
+[Outro]
+
+70
+00:02:50,904 --> 00:02:54,335
+Let me compile my hands
+
+71
+00:02:54,335 --> 00:02:58,245
+Let me compile my hands
+
+72
+00:02:58,245 --> 00:03:03,830
+I can build anything now
+
+73
+00:03:03,830 --> 00:03:10,782
+But I miss the way I began
+

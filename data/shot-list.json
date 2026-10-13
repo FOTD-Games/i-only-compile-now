@@ -1,0 +1,278 @@
+[
+  {
+    "start": 0,
+    "kind": "terminal",
+    "camera": "desk",
+    "pose": "seated"
+  },
+  {
+    "start": 8,
+    "kind": "desk",
+    "camera": "desk",
+    "pose": "seated"
+  },
+  {
+    "start": 14,
+    "kind": "slide",
+    "camera": "portrait",
+    "pose": "walk"
+  },
+  {
+    "start": 17.9,
+    "kind": "stage",
+    "camera": "medium",
+    "pose": "heart"
+  },
+  {
+    "start": 21.5,
+    "kind": "coding",
+    "camera": "desk",
+    "pose": "typing"
+  },
+  {
+    "start": 25,
+    "kind": "build_success",
+    "camera": "desk",
+    "pose": "seated"
+  },
+  {
+    "start": 27.4,
+    "kind": "coding_success",
+    "camera": "desk",
+    "pose": "seated"
+  },
+  {
+    "start": 28.4,
+    "kind": "stage",
+    "camera": "left",
+    "pose": "hands"
+  },
+  {
+    "start": 35.7,
+    "kind": "spot",
+    "camera": "direct",
+    "pose": "heart"
+  },
+  {
+    "start": 42.35,
+    "kind": "portal",
+    "camera": "portrait",
+    "pose": "reach"
+  },
+  {
+    "start": 46.1,
+    "kind": "stage",
+    "camera": "low",
+    "pose": "open"
+  },
+  {
+    "start": 51.951330265848675,
+    "kind": "stage",
+    "camera": "orbit",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 55.73,
+    "kind": "stage",
+    "camera": "floor_swoop",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 59.3,
+    "kind": "stage",
+    "camera": "crane",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 63.705,
+    "kind": "stage",
+    "camera": "close_arc",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 68,
+    "kind": "digital_terminal",
+    "camera": "studio",
+    "pose": "run"
+  },
+  {
+    "start": 74.42,
+    "kind": "digital_parser",
+    "camera": "studio",
+    "pose": "jump"
+  },
+  {
+    "start": 79.71,
+    "kind": "digital_repair",
+    "camera": "studio",
+    "pose": "repair"
+  },
+  {
+    "start": 83,
+    "kind": "terminal_cursor",
+    "camera": "studio",
+    "pose": "head"
+  },
+  {
+    "start": 92,
+    "kind": "stage",
+    "camera": "low",
+    "pose": "reach"
+  },
+  {
+    "start": 95.5,
+    "kind": "stage",
+    "camera": "left",
+    "pose": "heart"
+  },
+  {
+    "start": 98.3,
+    "kind": "stage",
+    "camera": "medium",
+    "pose": "hands"
+  },
+  {
+    "start": 100.9200347826087,
+    "kind": "stage",
+    "camera": "orbit",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 105.56,
+    "kind": "stage",
+    "camera": "floor_swoop",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 109.06,
+    "kind": "stage",
+    "camera": "crane",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 112.55,
+    "kind": "stage",
+    "camera": "close_arc",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 116,
+    "kind": "ascii_assembly",
+    "camera": "studio",
+    "pose": "open"
+  },
+  {
+    "start": 123.5,
+    "kind": "spot",
+    "camera": "portrait",
+    "pose": "heart"
+  },
+  {
+    "start": 130.1,
+    "kind": "stage",
+    "camera": "profile",
+    "pose": "hands"
+  },
+  {
+    "start": 137.9,
+    "kind": "portal",
+    "camera": "portrait",
+    "pose": "reach"
+  },
+  {
+    "start": 142.6,
+    "kind": "spot",
+    "camera": "direct",
+    "pose": "hands"
+  },
+  {
+    "start": 148.29514869565216,
+    "kind": "stage",
+    "camera": "orbit",
+    "pose": "open",
+    "backing_pose": "heart"
+  },
+  {
+    "start": 150,
+    "kind": "head_bounce",
+    "camera": "studio",
+    "pose": "head"
+  },
+  {
+    "start": 156,
+    "kind": "stage",
+    "camera": "floor_swoop",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 159.495,
+    "kind": "stage",
+    "camera": "crane",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 162.94,
+    "kind": "stage",
+    "camera": "close_arc",
+    "pose": "open",
+    "backing_pose": "dance"
+  },
+  {
+    "start": 165,
+    "end": 167.8183,
+    "kind": "montage",
+    "scene": "bounce"
+  },
+  {
+    "start": 167.8183,
+    "end": 172,
+    "kind": "montage",
+    "scene": "cursor"
+  },
+  {
+    "start": 172,
+    "end": 174.4348,
+    "kind": "montage",
+    "scene": "singer_close"
+  },
+  {
+    "start": 174.4348,
+    "end": 176.71,
+    "kind": "montage",
+    "scene": "stage_low"
+  },
+  {
+    "start": 176.71,
+    "end": 178.89,
+    "kind": "montage",
+    "scene": "typing"
+  },
+  {
+    "start": 178.89,
+    "end": 181.09,
+    "kind": "montage",
+    "scene": "success"
+  },
+  {
+    "start": 181.09,
+    "end": 183,
+    "kind": "montage",
+    "scene": "stage_wide"
+  },
+  {
+    "start": 183,
+    "kind": "desk_outro",
+    "camera": "outro_pullback",
+    "pose": "desk_sing"
+  }
+]

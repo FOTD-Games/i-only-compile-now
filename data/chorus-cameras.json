@@ -1,0 +1,70 @@
+{
+  "cuts": [
+    [
+      {
+        "start": 51.951330265848675,
+        "camera": "orbit"
+      },
+      {
+        "start": 55.73,
+        "camera": "floor_swoop"
+      },
+      {
+        "start": 59.3,
+        "camera": "crane"
+      },
+      {
+        "start": 63.705,
+        "camera": "close_arc"
+      }
+    ],
+    [
+      {
+        "start": 100.9200347826087,
+        "camera": "orbit"
+      },
+      {
+        "start": 105.56,
+        "camera": "floor_swoop"
+      },
+      {
+        "start": 109.06,
+        "camera": "crane"
+      },
+      {
+        "start": 112.55,
+        "camera": "close_arc"
+      }
+    ],
+    [
+      {
+        "start": 148.29514869565216,
+        "camera": "orbit"
+      },
+      {
+        "start": 156,
+        "camera": "floor_swoop"
+      },
+      {
+        "start": 159.495,
+        "camera": "crane"
+      },
+      {
+        "start": 162.94,
+        "camera": "close_arc"
+      }
+    ]
+  ],
+  "floor_swoop_start_height": 18,
+  "terminal_insert_overrides_seconds": [
+    [
+      150,
+      156
+    ]
+  ],
+  "stage_end_overrides_seconds": [
+    68,
+    116,
+    165
+  ]
+}

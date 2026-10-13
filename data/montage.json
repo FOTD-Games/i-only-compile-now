@@ -1,0 +1,40 @@
+{
+  "edit": "directed",
+  "cuts": [
+    {
+      "start": 165,
+      "end": 167.8183,
+      "scene": "bounce"
+    },
+    {
+      "start": 167.8183,
+      "end": 172,
+      "scene": "cursor"
+    },
+    {
+      "start": 172,
+      "end": 174.4348,
+      "scene": "singer_close"
+    },
+    {
+      "start": 174.4348,
+      "end": 176.71,
+      "scene": "stage_low"
+    },
+    {
+      "start": 176.71,
+      "end": 178.89,
+      "scene": "typing"
+    },
+    {
+      "start": 178.89,
+      "end": 181.09,
+      "scene": "success"
+    },
+    {
+      "start": 181.09,
+      "end": 183,
+      "scene": "stage_wide"
+    }
+  ]
+}

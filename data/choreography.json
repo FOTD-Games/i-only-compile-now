@@ -1,0 +1,80 @@
+{
+  "moves": [
+    "step_touch",
+    "running_man",
+    "kick_point",
+    "grapevine",
+    "robot",
+    "body_roll",
+    "skater",
+    "twist",
+    "overhead_clap",
+    "pivot_turn"
+  ],
+  "routines": [
+    [
+      "step_touch",
+      "running_man",
+      "kick_point",
+      "grapevine",
+      "robot",
+      "body_roll",
+      "overhead_clap",
+      "pivot_turn"
+    ],
+    [
+      "skater",
+      "twist",
+      "robot",
+      "running_man",
+      "overhead_clap",
+      "pivot_turn",
+      "kick_point",
+      "grapevine"
+    ],
+    [
+      "pivot_turn",
+      "step_touch",
+      "robot",
+      "grapevine",
+      "skater",
+      "running_man",
+      "overhead_clap",
+      "kick_point",
+      "body_roll",
+      "twist"
+    ]
+  ],
+  "phrase_beats": 4,
+  "transition_beats": 0.65,
+  "partner_offset_beats": 0,
+  "claps_synchronized": true,
+  "first_drum_seconds": [
+    53.1,
+    102.92,
+    148.7
+  ],
+  "timing_source": "percussion-beats.json",
+  "mirrored": false,
+  "shared_facing": true,
+  "shared_body_and_head_rotations": true,
+  "dancer_spacing": 530,
+  "dance_intervals_seconds": [
+    [
+      51.951330265848675,
+      68.41708588957056
+    ],
+    [
+      100.9200347826087,
+      117.53715652173913
+    ],
+    [
+      156,
+      173
+    ]
+  ],
+  "final_entrance_still_seconds": [
+    148,
+    150
+  ]
+}

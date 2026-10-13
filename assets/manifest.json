@@ -1,0 +1,17 @@
+[
+  {
+    "path": "assets/I Don't Code Anymore.m4a",
+    "bytes": 3214184,
+    "sha256": "38c0a908d08dbbbec18555d436a931208d4baca4ca2ca0048427c185c4fc97bb"
+  },
+  {
+    "path": "assets/lyrics.txt",
+    "bytes": 1863,
+    "sha256": "c08bdda5fe9b04a8616aa200ef6e813d1d767a8018141e6b8ab545ae84f52e6c"
+  },
+  {
+    "path": "assets/source-lyrics.srt",
+    "bytes": 4365,
+    "sha256": "fb08c30aff0908ab1b443ba68b56f5898246aec05fc16734aaf2dd398640dcdf"
+  }
+]

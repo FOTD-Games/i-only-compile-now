@@ -1,0 +1,40 @@
+[
+  {
+    "character": 0,
+    "role": "lead",
+    "skin": "#cb987f",
+    "jacket": "#66518b",
+    "pants": "#182638",
+    "hair": "#172531",
+    "shirt": "#161c2a",
+    "accent": "#85cfc8",
+    "outfit": "hoodie",
+    "glasses": "rectangle"
+  },
+  {
+    "character": 1,
+    "role": "backing singer",
+    "skin": "#946d5c",
+    "jacket": "#e1e3dc",
+    "pants": "#182535",
+    "hair": "#181e27",
+    "shirt": "#e8ece4",
+    "accent": "#55bca9",
+    "outfit": "buttondown",
+    "glasses": "round",
+    "gender": "woman",
+    "hairstyle": "long"
+  },
+  {
+    "character": 2,
+    "role": "backing singer",
+    "skin": "#dbb2a0",
+    "jacket": "#3b527c",
+    "pants": "#1a2137",
+    "hair": "#b29c92",
+    "shirt": "#91a4af",
+    "accent": "#ad91c2",
+    "outfit": "argyle",
+    "glasses": null
+  }
+]

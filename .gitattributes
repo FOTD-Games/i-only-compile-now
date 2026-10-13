@@ -1,0 +1,4 @@
+*.m4a binary
+*.jpg binary
+*.npz binary
+assets/source-lyrics.srt whitespace=-blank-at-eof
