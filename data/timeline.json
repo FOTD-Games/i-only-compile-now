@@ -1,0 +1,230 @@
+{
+ "song": {
+  "title": "I Only Compile Now",
+  "audio": "assets/I-Only-Compile-Now.m4a",
+  "stem": "I-Only-Compile-Now",
+  "duration": 210.8
+ },
+ "sections": [
+  "Verse 1",
+  "Pre-Chorus",
+  "Chorus",
+  "Verse 2",
+  "Pre-Chorus",
+  "Bridge",
+  "Final Chorus",
+  "Outro"
+ ],
+ "anchors": [
+  0.0,
+  8.29,
+  36.95,
+  51.19,
+  67.31,
+  96.01,
+  111.19,
+  139.97,
+  157.73,
+  190.79
+ ],
+ "percussion": {
+  "mix_downbeats": [
+   52.1613
+  ],
+  "fit_window": [
+   52.0768,
+   111.19
+  ],
+  "prominence": 0.25,
+  "height": 0.45
+ },
+ "intro": {
+  "desk": 6.1848,
+  "perform": 7.9308
+ },
+ "coding": {
+  "start": 15.3724,
+  "success": 18.9828,
+  "idle": 21.4585,
+  "end": 22.49
+ },
+ "digital": {
+  "cuts": [
+   [
+    64.7571,
+    "terminal"
+   ],
+   [
+    71.9778,
+    "parser"
+   ],
+   [
+    79.2403,
+    "repair"
+   ],
+   [
+    84.1826,
+    "files"
+   ],
+   [
+    96.0184,
+    "keys"
+   ],
+   [
+    105.2665,
+    "care"
+   ]
+  ],
+  "end": 83.7571
+ },
+ "cursor": {
+  "start": 83.7571,
+  "end": 96.1365
+ },
+ "ascii": {
+  "start": 111.19,
+  "end": 111.19
+ },
+ "bounce": {
+  "start": 141.3171,
+  "end": 146.0575
+ },
+ "montage": {
+  "start": 153.1681,
+  "end": 177.0,
+  "cuts": [
+   [
+    153.1681,
+    "bounce"
+   ],
+   [
+    156.0028,
+    "cursor"
+   ],
+   [
+    160.4579,
+    "singer_close"
+   ],
+   [
+    164.1195,
+    "stage_low"
+   ],
+   [
+    167.5409,
+    "typing"
+   ],
+   [
+    170.8194,
+    "success"
+   ],
+   [
+    174.1276,
+    "stage_wide"
+   ]
+  ]
+ },
+ "outro": {
+  "start": 177.0,
+  "turn": 184.2
+ },
+ "chorus": {
+  "light_start": [
+   52.1613,
+   null
+  ],
+  "dance_hold": [
+   146.0575,
+   160.3595
+  ],
+  "settle_end": 153.9582,
+  "cameras": [
+   [
+    [
+     null,
+     "orbit"
+    ],
+    [
+     54.4437,
+     "floor_swoop",
+     true
+    ],
+    [
+     57.4025,
+     "crane",
+     true
+    ],
+    [
+     61.122,
+     "close_arc",
+     true
+    ]
+   ],
+   [
+    [
+     null,
+     "orbit"
+    ],
+    [
+     146.0575,
+     "floor_swoop",
+     false
+    ],
+    [
+     148.8227,
+     "crane",
+     true
+    ],
+    [
+     151.5485,
+     "close_arc",
+     true
+    ]
+   ]
+  ]
+ },
+ "coda": {
+  "start": 190.79,
+  "entries": [
+   193.29,
+   200.234,
+   202.034
+  ]
+ },
+ "shots": [
+  [0.0, "terminal", "desk", "seated"],
+  [6.1848, "desk", "desk", "seated"],
+  [7.9308, "slide", "portrait", "walk"],
+  [11.659, "stage", "medium", "heart"],
+  [15.3724, "coding", "desk", "typing"],
+  [18.9828, "build_success", "desk", "seated"],
+  [21.4585, "coding_success", "desk", "seated"],
+  [22.49, "stage", "left", "hands"],
+  [30.0202, "spot", "direct", "heart"],
+  [36.8798, "portal", "portrait", "reach"],
+  [42.45, "stage", "low", "open"],
+  ["chorus0", "stage", "wide", "open"],
+  [54.486, "stage", "right", "reach"],
+  [57.8252, "split", "duet", "hands"],
+  [60.7839, "spot", "direct", "heart"],
+  [64.5034, "stage", "high", "walk"],
+  [64.7571, "digital_terminal", "studio", "run"],
+  [71.9778, "digital_parser", "studio", "jump"],
+  [79.2403, "digital_repair", "studio", "repair"],
+  [83.7571, "terminal_cursor", "studio", "head"],
+  [96.1365, "stage", "low", "reach"],
+  [102.0432, "stage", "left", "heart"],
+  [106.7685, "stage", "medium", "hands"],
+  [111.19, "spot", "portrait", "heart"],
+  [118.7652, "stage", "profile", "hands"],
+  [127.8555, "portal", "portrait", "reach"],
+  [133.3329, "spot", "direct", "hands"],
+  ["chorus1", "stage", "low", "rise"],
+  [141.3171, "head_bounce", "studio", "head"],
+  [146.0575, "stage", "wide", "open"],
+  [146.1365, "slide", "portrait", "reach"],
+  [148.9413, "stage", "left", "point"],
+  [151.588, "spot", "direct", "open"],
+  [153.1681, "montage", "studio", "shuffle"],
+  [177.0, "desk_outro", "desk", "desk_sing"]
+ ]
+}

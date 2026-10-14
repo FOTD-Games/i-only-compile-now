@@ -3,6 +3,7 @@ import os
 import torch,torchaudio,numpy as np,json,re,time
 from scipy.signal import butter,sosfiltfilt
 from scipy.ndimage import uniform_filter1d,maximum_filter1d,median_filter,binary_closing,binary_opening
+from timeline import DURATION
 ROOT=Path(__file__).resolve().parents[1]
 P=Path(os.environ.get('IDCA_WORK_DIR',str(ROOT/'work')));torch.hub.set_dir(str(P/'model-cache'));torch.set_num_threads(5)
 x=np.load(P/'vocals16.npy');sr=16000
@@ -15,7 +16,7 @@ for i,c in enumerate(cues):
  sections[-1]['cues'].append((i,c))
 allchars=[];allwords=[];newcues=[]
 for k,section in enumerate(sections):
- start=max(0,section['start']-.25);end=min(len(x)/sr,sections[k+1]['start']+.10 if k+1<len(sections) else 198.76)
+ start=max(0,section['start']-.25);end=min(len(x)/sr,sections[k+1]['start']+.10 if k+1<len(sections) else DURATION)
 
  words=[];owners=[]
  for i,c in section['cues']:

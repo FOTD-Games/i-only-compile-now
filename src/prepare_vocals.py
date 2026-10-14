@@ -3,6 +3,7 @@ import os
 import torch,torchaudio,subprocess,wave,numpy as np,time
 from demucs.pretrained import get_model
 from demucs.apply import apply_model
+from timeline import AUDIO
 ROOT=Path(__file__).resolve().parents[1]
 P=Path(os.environ.get('IDCA_WORK_DIR',str(ROOT/'work')));P.mkdir(parents=True,exist_ok=True)
 torch.hub.set_dir(str(P/'model-cache'));torch.set_num_threads(6)
@@ -12,7 +13,7 @@ print('Downloading alignment model',flush=True)
 bundle=torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H
 align=bundle.get_model().cpu().eval()
 print('Models ready. Separating vocals locally.',flush=True)
-subprocess.run(['ffmpeg','-y','-v','error','-i',str(ROOT/"assets/I Don't Code Anymore.m4a"),'-vn','-sn','-ar','44100','-ac','2',str(P/'mix441.wav')],check=True)
+subprocess.run(['ffmpeg','-y','-v','error','-i',str(AUDIO),'-vn','-sn','-ar','44100','-ac','2',str(P/'mix441.wav')],check=True)
 with wave.open(str(P/'mix441.wav')) as f:
  data=np.frombuffer(f.readframes(f.getnframes()),np.int16).reshape(-1,2).T.copy().astype(np.float32)/32768
 mix=torch.from_numpy(data)

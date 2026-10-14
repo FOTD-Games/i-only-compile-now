@@ -1,3 +1,5 @@
+> **Fork note:** this fork restyles the project into *I Only Compile Now*, a 1960 big-band parody. See [NOTES.md](NOTES.md). The text below describes upstream.
+
 # I Don't Code Anymore
 
 A new low-poly music video derived from the procedural animation and vocal-alignment approach used in **P(doom)! Kaboom!**. This project has its own supplied song, three human performers, a redesigned club stage, and a separate edit. The lead wears a purple hoodie and rectangular glasses; one backing singer is a woman with long dark hair, a white button-down with pens in the pocket, and round glasses; the other wears an argyle sweater vest over a collared shirt. The lead keeps his hoodie and glasses in the desk, digital-avatar, ASCII, and head-only scenes.

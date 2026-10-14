@@ -13,5 +13,10 @@
     "path": "assets/source-lyrics.srt",
     "bytes": 4365,
     "sha256": "fb08c30aff0908ab1b443ba68b56f5898246aec05fc16734aaf2dd398640dcdf"
+  },
+  {
+    "path": "assets/I-Only-Compile-Now.m4a",
+    "bytes": 4233997,
+    "sha256": "cdb997a5923bfc0ca0b5e250f42cb0da32eec032037ed28fa23cff42b24be16a"
   }
 ]

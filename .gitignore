@@ -12,3 +12,7 @@ __pycache__/
 /docs/validation.json
 /data/I-Dont-Code-Anymore.srt
 .DS_Store
+
+# Source audio stays local; the published track is assets/I-Only-Compile-Now.m4a.
+/assets/*.wav
+/assets/*.mp3

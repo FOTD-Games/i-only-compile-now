@@ -1,380 +1,408 @@
 [
   {
-    "start": 0.638,
-    "end": 5.505,
+    "start": 8.1,
+    "end": 11.688,
     "text": "I used to wake before the sun",
-    "section": "Verse 1"
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 5.505,
-    "end": 15.505,
-    "text": "And wrestle code till it was done",
-    "section": "Verse 1"
+    "start": 11.688,
+    "end": 15.275,
+    "text": "And punch octal till it was done",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 21.702,
-    "end": 24.335,
-    "text": "A tiny bug, a stubborn line",
-    "section": "Verse 1"
+    "start": 15.275,
+    "end": 18.862,
+    "text": "A single bit, a stubborn word",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 24.335,
-    "end": 28.723,
-    "text": "And then—at last—the build was mine",
-    "section": "Verse 1"
+    "start": 18.862,
+    "end": 22.45,
+    "text": "And then—at last—the lights concurred.",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 28.723,
-    "end": 32.314,
-    "text": "I'd chase the truth through nested loops",
-    "section": "Verse 1"
+    "start": 22.45,
+    "end": 26.037,
+    "text": "I'd chase the truth through index loops",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 32.314,
-    "end": 35.904,
-    "text": "And count my wins in crooked groups",
-    "section": "Verse 1"
+    "start": 26.037,
+    "end": 29.625,
+    "text": "And count my wins in octal groups",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 35.904,
-    "end": 38.537,
-    "text": "Now I just ask, and there it goes",
-    "section": "Verse 1"
+    "start": 29.625,
+    "end": 33.212,
+    "text": "Now I just write a \"do\" and go",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 38.537,
-    "end": 42.527,
-    "text": "A thousand answers, one neat row",
-    "section": "Verse 1"
+    "start": 33.212,
+    "end": 36.8,
+    "text": "Let the compiler run the show",
+    "section": "Verse 1",
+    "singer": "lead"
   },
   {
-    "start": 42.527,
-    "end": 43.404,
-    "text": "It's fast",
-    "section": "Pre-Chorus"
+    "start": 36.8,
+    "end": 41.533,
+    "text": "It's fast / It's clean / It's almost everything I dreamed",
+    "section": "Pre-Chorus",
+    "singer": "lead"
   },
   {
-    "start": 43.404,
-    "end": 44.362,
-    "text": "It's clean",
-    "section": "Pre-Chorus"
+    "start": 41.533,
+    "end": 46.267,
+    "text": "A room of tape at my command",
+    "section": "Pre-Chorus",
+    "singer": "lead"
   },
   {
-    "start": 44.362,
-    "end": 46.117,
-    "text": "It's almost everything I dreamed",
-    "section": "Pre-Chorus"
-  },
-  {
-    "start": 46.117,
-    "end": 47.872,
-    "text": "A world of doors at my command",
-    "section": "Pre-Chorus"
-  },
-  {
-    "start": 47.872,
-    "end": 51.941,
+    "start": 46.267,
+    "end": 51.0,
     "text": "But something slips right through my hands",
-    "section": "Pre-Chorus"
+    "section": "Pre-Chorus",
+    "singer": "lead"
   },
   {
-    "start": 51.941,
-    "end": 54.255,
+    "start": 51.0,
+    "end": 53.0,
     "text": "I can build anything now",
-    "section": "Chorus"
+    "section": "Chorus",
+    "singer": "lead"
   },
   {
-    "start": 54.255,
-    "end": 55.931,
+    "start": 53.0,
+    "end": 55.0,
     "text": "Anything now",
-    "section": "Chorus"
+    "section": "Chorus",
+    "singer": "backing"
   },
   {
-    "start": 55.931,
-    "end": 58.245,
-    "text": "But I don't code anymore",
-    "section": "Chorus"
+    "start": 55.0,
+    "end": 57.0,
+    "text": "But I only compile now",
+    "section": "Chorus",
+    "singer": "lead"
   },
   {
-    "start": 58.245,
-    "end": 60.0,
-    "text": "I don't code anymore",
-    "section": "Chorus"
+    "start": 57.0,
+    "end": 59.0,
+    "text": "I only compile now",
+    "section": "Chorus",
+    "singer": "backing"
   },
   {
-    "start": 60.0,
-    "end": 61.676,
-    "text": "I ask the machine to sing",
-    "section": "Chorus"
+    "start": 59.0,
+    "end": 61.0,
+    "text": "I feed the reader my cards",
+    "section": "Chorus",
+    "singer": "lead"
   },
   {
-    "start": 61.676,
-    "end": 63.431,
-    "text": "I watch it hand me the thing",
-    "section": "Chorus"
+    "start": 61.0,
+    "end": 63.0,
+    "text": "It writes the part that was hard",
+    "section": "Chorus",
+    "singer": "lead"
   },
   {
-    "start": 63.431,
-    "end": 65.266,
+    "start": 63.0,
+    "end": 65.0,
     "text": "And still I stand at the door",
-    "section": "Chorus"
+    "section": "Chorus",
+    "singer": "lead"
   },
   {
-    "start": 65.266,
-    "end": 67.819,
-    "text": "I don't code anymore",
-    "section": "Chorus"
+    "start": 65.0,
+    "end": 67.0,
+    "text": "I only compile now",
+    "section": "Chorus",
+    "singer": "backing"
   },
   {
-    "start": 71.17,
-    "end": 74.441,
-    "text": "No red squiggles in the dark",
-    "section": "Verse 2"
+    "start": 67.0,
+    "end": 69.88,
+    "text": "No coding sheets or pencil marks",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 74.441,
-    "end": 77.952,
-    "text": "No midnight fights with parser sparks",
-    "section": "Verse 2"
+    "start": 69.88,
+    "end": 72.76,
+    "text": "No midnight block time, console sparks",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 77.952,
-    "end": 79.867,
-    "text": "No coffee ring on logic maps",
-    "section": "Verse 2"
+    "start": 72.76,
+    "end": 75.64,
+    "text": "No coffee ring on flowchart maps",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 79.867,
-    "end": 81.622,
-    "text": "No victory from fixing traps",
-    "section": "Verse 2"
+    "start": 75.64,
+    "end": 78.52,
+    "text": "No victory from patching traps",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 81.622,
-    "end": 83.298,
-    "text": "It drafts the screen, it names the files",
-    "section": "Verse 2"
+    "start": 78.52,
+    "end": 81.4,
+    "text": "I write less, and it writes more",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 83.298,
-    "end": 85.133,
-    "text": "It skips the pain, it cuts the miles",
-    "section": "Verse 2"
+    "start": 81.4,
+    "end": 84.28,
+    "text": "It skips the weeks of work before",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 85.133,
-    "end": 86.888,
-    "text": "It makes the hard part look like art",
-    "section": "Verse 2"
+    "start": 84.28,
+    "end": 87.16,
+    "text": "I ask the machine to sing",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 86.888,
-    "end": 91.91499999999999,
-    "text": "And leaves my old joy out apart",
-    "section": "Verse 2"
+    "start": 87.16,
+    "end": 90.04,
+    "text": "And Daisy?",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 91.91499999999999,
-    "end": 92.952,
-    "text": "It's smart",
-    "section": "Pre-Chorus"
+    "start": 90.04,
+    "end": 92.92,
+    "text": "Daisy,",
+    "section": "Verse 2",
+    "singer": "backing"
   },
   {
-    "start": 92.952,
-    "end": 93.989,
-    "text": "It's quick",
-    "section": "Pre-Chorus"
+    "start": 92.92,
+    "end": 95.8,
+    "text": "is the thing.",
+    "section": "Verse 2",
+    "singer": "lead"
   },
   {
-    "start": 93.989,
-    "end": 95.66499999999999,
-    "text": "It gives me almost all I pick",
-    "section": "Pre-Chorus"
+    "start": 95.8,
+    "end": 100.933,
+    "text": "It's smart / It's quick / It gives me almost all I pick",
+    "section": "Pre-Chorus",
+    "singer": "lead"
   },
   {
-    "start": 95.66499999999999,
-    "end": 97.34,
-    "text": "I reach for keys that aren't there",
-    "section": "Pre-Chorus"
+    "start": 100.933,
+    "end": 106.067,
+    "text": "I reach for switches that aren't there",
+    "section": "Pre-Chorus",
+    "singer": "lead"
   },
   {
-    "start": 97.34,
-    "end": 101.17,
+    "start": 106.067,
+    "end": 111.2,
     "text": "And feel the ghost of my own care",
-    "section": "Pre-Chorus"
+    "section": "Pre-Chorus",
+    "singer": "lead"
   },
   {
-    "start": 101.17,
-    "end": 103.644,
-    "text": "I can build anything now",
-    "section": "Chorus"
+    "start": 111.2,
+    "end": 114.06,
+    "text": "Remember when a single hole",
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 103.644,
-    "end": 105.239,
-    "text": "Anything now",
-    "section": "Chorus"
+    "start": 114.06,
+    "end": 116.92,
+    "text": "Could teach me patience, make me whole?",
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 105.239,
-    "end": 107.473,
-    "text": "But I don't code anymore",
-    "section": "Chorus"
+    "start": 116.92,
+    "end": 119.78,
+    "text": "When every fix was earned outright",
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 107.473,
-    "end": 109.309,
-    "text": "I don't code anymore",
-    "section": "Chorus"
+    "start": 119.78,
+    "end": 122.64,
+    "text": "And panels' glare the only light",
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 109.309,
-    "end": 111.064,
-    "text": "I ask the machine to sing",
-    "section": "Chorus"
-  },
-  {
-    "start": 111.064,
-    "end": 112.739,
-    "text": "I watch it hand me the thing",
-    "section": "Chorus"
-  },
-  {
-    "start": 112.739,
-    "end": 114.574,
-    "text": "And still I stand at the door",
-    "section": "Chorus"
-  },
-  {
-    "start": 114.574,
-    "end": 123.83,
-    "text": "I don't code anymore",
-    "section": "Chorus"
-  },
-  {
-    "start": 123.83,
-    "end": 126.702,
-    "text": "Remember when a broken line",
-    "section": "Bridge"
-  },
-  {
-    "start": 126.702,
-    "end": 130.293,
-    "text": "Could teach me patience, make me shine?",
-    "section": "Bridge"
-  },
-  {
-    "start": 130.293,
-    "end": 133.644,
-    "text": "When every fix was hard-earned light",
-    "section": "Bridge"
-  },
-  {
-    "start": 133.644,
-    "end": 138.989,
-    "text": "And I could lose myself all night",
-    "section": "Bridge"
-  },
-  {
-    "start": 138.989,
-    "end": 140.266,
+    "start": 122.64,
+    "end": 125.5,
     "text": "I don't miss the pain",
-    "section": "Bridge"
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 140.266,
-    "end": 141.144,
+    "start": 125.5,
+    "end": 128.36,
     "text": "I miss the proof",
-    "section": "Bridge"
+    "section": "Bridge",
+    "singer": "backing"
   },
   {
-    "start": 141.144,
-    "end": 142.819,
-    "text": "The quiet click of finding truth",
-    "section": "Bridge"
+    "start": 128.36,
+    "end": 131.22,
+    "text": "The quiet clack",
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 142.819,
-    "end": 144.574,
-    "text": "I miss the mess, the climb, the grit",
-    "section": "Bridge"
+    "start": 131.22,
+    "end": 134.08,
+    "text": "of finding truth",
+    "section": "Bridge",
+    "singer": "backing"
   },
   {
-    "start": 144.574,
-    "end": 148.245,
-    "text": "The little thrill of making it",
-    "section": "Bridge"
+    "start": 134.08,
+    "end": 136.94,
+    "text": "I miss the dump, the climb, the grit",
+    "section": "Bridge",
+    "singer": "lead"
   },
   {
-    "start": 148.245,
-    "end": 150.718,
+    "start": 136.94,
+    "end": 139.8,
+    "text": "The little thrill of punching it",
+    "section": "Bridge",
+    "singer": "lead"
+  },
+  {
+    "start": 139.8,
+    "end": 142.013,
     "text": "I can build anything now",
-    "section": "Final Chorus"
+    "section": "Final Chorus",
+    "singer": "lead"
   },
   {
-    "start": 150.718,
-    "end": 152.314,
+    "start": 142.013,
+    "end": 144.225,
     "text": "Anything now",
-    "section": "Final Chorus"
+    "section": "Final Chorus",
+    "singer": "backing"
   },
   {
-    "start": 152.314,
-    "end": 154.548,
-    "text": "But I don't code anymore",
-    "section": "Final Chorus"
+    "start": 144.225,
+    "end": 146.438,
+    "text": "But I only compile now",
+    "section": "Final Chorus",
+    "singer": "lead"
   },
   {
-    "start": 154.548,
-    "end": 156.303,
-    "text": "I don't code anymore",
-    "section": "Final Chorus"
+    "start": 146.438,
+    "end": 148.65,
+    "text": "I only compile now",
+    "section": "Final Chorus",
+    "singer": "backing"
   },
   {
-    "start": 156.303,
-    "end": 157.97899999999998,
-    "text": "So give me one old stubborn file",
-    "section": "Final Chorus"
+    "start": 148.65,
+    "end": 150.863,
+    "text": "So give me one old stubborn deck",
+    "section": "Final Chorus",
+    "singer": "lead"
   },
   {
-    "start": 157.97899999999998,
-    "end": 159.734,
-    "text": "One bug that makes me stay awhile",
-    "section": "Final Chorus"
+    "start": 150.863,
+    "end": 153.075,
+    "text": "One word I have to check and check",
+    "section": "Final Chorus",
+    "singer": "lead"
   },
   {
-    "start": 159.734,
-    "end": 161.489,
+    "start": 153.075,
+    "end": 155.287,
     "text": "I want the struggle back once more",
-    "section": "Final Chorus"
+    "section": "Final Chorus",
+    "singer": "lead"
   },
   {
-    "start": 161.489,
-    "end": 170.904,
-    "text": "I want to code once more",
-    "section": "Final Chorus"
+    "start": 155.287,
+    "end": 157.5,
+    "text": "I want to punch once more",
+    "section": "Final Chorus",
+    "singer": "lead"
   },
   {
-    "start": 170.904,
-    "end": 174.335,
-    "text": "Let me compile my hands",
-    "section": "Outro"
+    "start": 157.5,
+    "end": 163.417,
+    "text": "Let me assemble my hands",
+    "section": "Outro",
+    "singer": "lead"
   },
   {
-    "start": 174.335,
-    "end": 178.245,
-    "text": "Let me compile my hands",
-    "section": "Outro"
+    "start": 163.417,
+    "end": 169.333,
+    "text": "Let me assemble my hands",
+    "section": "Outro",
+    "singer": "lead"
   },
   {
-    "start": 178.245,
-    "end": 183.83,
+    "start": 169.333,
+    "end": 175.25,
     "text": "I can build anything now",
-    "section": "Outro"
+    "section": "Outro",
+    "singer": "lead"
   },
   {
-    "start": 183.83,
-    "end": 190.782,
+    "start": 175.25,
+    "end": 181.167,
+    "text": "anything now",
+    "section": "Outro",
+    "singer": "backing"
+  },
+  {
+    "start": 181.167,
+    "end": 187.083,
     "text": "But I miss the way I began",
-    "section": "Outro"
+    "section": "Outro",
+    "singer": "lead"
+  },
+  {
+    "start": 187.083,
+    "end": 193.0,
+    "text": "we began",
+    "section": "Outro",
+    "singer": "backing"
+  },
+  {
+    "start": 193.0,
+    "end": 201.9,
+    "text": "I can sing",
+    "section": "Coda",
+    "singer": "backing"
+  },
+  {
+    "start": 201.9,
+    "end": 210.8,
+    "text": "anything now",
+    "section": "Coda",
+    "singer": "backing"
   }
 ]
